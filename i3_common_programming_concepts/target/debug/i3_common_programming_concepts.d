@@ -1,0 +1,1 @@
+C:\Users\pasqu\OneDrive\Documenti\Rust\i3_common_programming_concepts\target\debug\i3_common_programming_concepts.exe: C:\Users\pasqu\OneDrive\Documenti\Rust\i3_common_programming_concepts\src\main.rs

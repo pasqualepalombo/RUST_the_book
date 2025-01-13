@@ -1,0 +1,6 @@
+[package]
+name = "i3_5_branches"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
